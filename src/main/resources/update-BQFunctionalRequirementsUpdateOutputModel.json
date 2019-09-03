@@ -1,0 +1,19 @@
+{
+  "customerBehaviorModelSpecificationInstanceRecord" : {
+    "customerBehaviorModelUsage" : "customerBehaviorModelUsage",
+    "customerBehaviorModelPurpose" : "customerBehaviorModelPurpose",
+    "customerBehaviorModelVersion" : "customerBehaviorModelVersion",
+    "customerBehaviorModelStatus" : "customerBehaviorModelStatus",
+    "customerBehaviorModel" : "customerBehaviorModel",
+    "customerBehaviorModelType" : "customerBehaviorModelType"
+  },
+  "updateResponseRecord" : {},
+  "functionalRequirementsUpdateActionTaskRecord" : {},
+  "functionalRequirementsInstanceRecord" : {
+    "customerBehaviorModelDesignTaskReference" : "714319",
+    "customerBehaviorModelRequirementsSpecification" : "customerBehaviorModelRequirementsSpecification",
+    "customerBehaviorModelDesignTaskRecord" : {},
+    "customerBehaviorModelFeedbackRecord" : {}
+  },
+  "functionalRequirementsUpdateActionTaskReference" : "FRUATR796357"
+}

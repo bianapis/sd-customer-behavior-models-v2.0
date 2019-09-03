@@ -1,0 +1,20 @@
+{
+  "executeRecordReference" : "ERR755015",
+  "executeResponseRecord" : {},
+  "customerBehaviorModelSpecificationExecuteActionTaskRecord" : {},
+  "customerBehaviorModelSpecificationInstanceRecord" : {
+    "customerBehaviorModelDeployment" : {
+      "customerBehaviorModelDeploymentConfiguration" : {
+        "customerBehaviorModelDeploymentTaskReference" : "796730",
+        "customerBehaviorModelDeploymentTaskRecord" : {}
+      }
+    },
+    "customerBehaviorModelUsage" : "customerBehaviorModelUsage",
+    "customerBehaviorModelPurpose" : "customerBehaviorModelPurpose",
+    "customerBehaviorModelVersion" : "customerBehaviorModelVersion",
+    "customerBehaviorModelStatus" : "customerBehaviorModelStatus",
+    "customerBehaviorModel" : "customerBehaviorModel",
+    "customerBehaviorModelType" : "customerBehaviorModelType"
+  },
+  "customerBehaviorModelSpecificationExecuteActionTaskReference" : "CBMSEATR721922"
+}

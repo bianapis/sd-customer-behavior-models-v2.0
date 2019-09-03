@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.BQProductionRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDeploymentCustomerBehaviorModelDeploymentConfiguration;
+
+import javax.validation.Valid;
+  
+/**
+ * BQProductionRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDeployment
+ */
+public class BQProductionRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDeployment   {
+  private BQProductionRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDeploymentCustomerBehaviorModelDeploymentConfiguration customerBehaviorModelDeploymentConfiguration = null;
+
+
+  /**
+   * Get customerBehaviorModelDeploymentConfiguration
+   * @return customerBehaviorModelDeploymentConfiguration
+  **/
+
+  public BQProductionRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDeploymentCustomerBehaviorModelDeploymentConfiguration getCustomerBehaviorModelDeploymentConfiguration() {
+    return customerBehaviorModelDeploymentConfiguration;
+  }
+
+  public void setCustomerBehaviorModelDeploymentConfiguration(BQProductionRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDeploymentCustomerBehaviorModelDeploymentConfiguration customerBehaviorModelDeploymentConfiguration) {
+    this.customerBehaviorModelDeploymentConfiguration = customerBehaviorModelDeploymentConfiguration;
+  }
+
+
+}
+

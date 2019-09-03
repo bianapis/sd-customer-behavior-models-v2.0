@@ -1,0 +1,31 @@
+{
+  "customerBehaviorModelSpecificationInstanceAnalysis" : {
+    "customerBehaviorModelSpecificationInstanceAnalysisData" : "customerBehaviorModelSpecificationInstanceAnalysisData",
+    "customerBehaviorModelSpecificationInstanceAnalysisReportType" : "customerBehaviorModelSpecificationInstanceAnalysisReportType",
+    "customerBehaviorModelSpecificationInstanceAnalysisReport" : {}
+  },
+  "customerBehaviorModelSpecificationInstanceReportRecord" : {
+    "customerBehaviorModelSpecificationInstanceReportType" : "customerBehaviorModelSpecificationInstanceReportType",
+    "customerBehaviorModelSpecificationInstanceReportData" : "customerBehaviorModelSpecificationInstanceReportData",
+    "customerBehaviorModelSpecificationInstanceReport" : {}
+  },
+  "customerBehaviorModelSpecificationRetrieveActionTaskReference" : "CBMSRATR775510",
+  "customerBehaviorModelSpecificationInstanceRecord" : {
+    "customerBehaviorModelDeployment" : {
+      "employeeBusinessUnitReference" : "758721",
+      "customerBehaviorModelDeploymentConfiguration" : {
+        "customerBehaviorModelDeploymentTaskReference" : "772901",
+        "customerBehaviorModelDeploymentTaskRecord" : {}
+      }
+    },
+    "customerBehaviorModelUsage" : "customerBehaviorModelUsage",
+    "customerBehaviorModelPurpose" : "customerBehaviorModelPurpose",
+    "customerBehaviorModelVersion" : "customerBehaviorModelVersion",
+    "customerBehaviorModelStatus" : "customerBehaviorModelStatus",
+    "customerBehaviorModelImpact" : "customerBehaviorModelImpact",
+    "customerBehaviorModel" : "customerBehaviorModel",
+    "customerBehaviorModelType" : "customerBehaviorModelType"
+  },
+  "customerBehaviorModelSpecificationRetrieveActionTaskRecord" : {},
+  "customerBehaviorModelSpecificationRetrieveActionResponse" : "customerBehaviorModelSpecificationRetrieveActionResponse"
+}

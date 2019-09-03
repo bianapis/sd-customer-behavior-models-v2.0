@@ -1,0 +1,33 @@
+{
+  "testingRetrieveActionResponse" : "testingRetrieveActionResponse",
+  "testingRetrieveActionTaskRecord" : {},
+  "customerBehaviorModelSpecificationInstanceRecord" : {
+    "customerBehaviorModelDeployment" : {
+      "employeeBusinessUnitReference" : "778530"
+    },
+    "customerBehaviorModelVersion" : "customerBehaviorModelVersion",
+    "customerBehaviorModelType" : "customerBehaviorModelType"
+  },
+  "testingInstanceAnalysis" : {
+    "testingInstanceAnalysisReportType" : "testingInstanceAnalysisReportType",
+    "testingInstanceAnalysisRecord" : {},
+    "testingInstanceAnalysisParameters" : "testingInstanceAnalysisParameters",
+    "testingInstanceAnalysisReport" : {}
+  },
+  "testingInstanceReport" : {
+    "testingInstanceReportType" : "testingInstanceReportType",
+    "testingInstanceReportRecord" : {},
+    "testingInstanceReport" : {},
+    "testingInstanceReportParameters" : "testingInstanceReportParameters"
+  },
+  "testingRetrieveActionTaskReference" : "TRATR747701",
+  "testingInstanceRecord" : {
+    "customerBehaviorModelTestHarnessReference" : "713079",
+    "customerBehaviorModelTestReference" : "718466",
+    "customerBehaviorModelTestType" : "customerBehaviorModelTestType",
+    "customerBehaviorModelTestResult" : {
+      "customerBehaviorModelTestingTaskRecord" : {},
+      "customerBehaviorModelTestingTaskReference" : "780865"
+    }
+  }
+}

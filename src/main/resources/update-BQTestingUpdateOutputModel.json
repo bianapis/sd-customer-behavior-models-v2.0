@@ -1,0 +1,14 @@
+{
+  "testingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "testingUpdateActionTaskReference" : "TUATR721027",
+  "testingInstanceRecord" : {
+    "customerBehaviorModelTestHarnessReference" : "794796",
+    "customerBehaviorModelTestReference" : "740391",
+    "customerBehaviorModelTestType" : "customerBehaviorModelTestType",
+    "customerBehaviorModelTestResult" : {
+      "customerBehaviorModelTestingTaskRecord" : {},
+      "customerBehaviorModelTestingTaskReference" : "721894"
+    }
+  }
+}

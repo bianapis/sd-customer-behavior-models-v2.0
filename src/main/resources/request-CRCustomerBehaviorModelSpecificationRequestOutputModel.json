@@ -1,0 +1,20 @@
+{
+  "customerBehaviorModelSpecificationRequestActionTaskReference" : "CBMSRATR795598",
+  "customerBehaviorModelSpecificationRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR701680",
+  "customerBehaviorModelSpecificationInstanceRecord" : {
+    "customerBehaviorModelDeployment" : {
+      "customerBehaviorModelDeploymentConfiguration" : {
+        "customerBehaviorModelDeploymentTaskReference" : "764837",
+        "customerBehaviorModelDeploymentTaskRecord" : {}
+      }
+    },
+    "customerBehaviorModelUsage" : "customerBehaviorModelUsage",
+    "customerBehaviorModelPurpose" : "customerBehaviorModelPurpose",
+    "customerBehaviorModelVersion" : "customerBehaviorModelVersion",
+    "customerBehaviorModelStatus" : "customerBehaviorModelStatus",
+    "customerBehaviorModel" : "customerBehaviorModel",
+    "customerBehaviorModelType" : "customerBehaviorModelType"
+  },
+  "requestResponseRecord" : {}
+}

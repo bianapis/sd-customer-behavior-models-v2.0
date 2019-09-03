@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRCustomerBehaviorModelSpecificationRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDepCusBehModDeploymentConfiguration;
+
+import javax.validation.Valid;
+  
+/**
+ * CRCustomerBehaviorModelSpecificationRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDeployment
+ */
+public class CRCustomerBehaviorModelSpecificationRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDeployment   {
+  private CRCustomerBehaviorModelSpecificationRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDepCusBehModDeploymentConfiguration customerBehaviorModelDeploymentConfiguration = null;
+
+
+  /**
+   * Get customerBehaviorModelDeploymentConfiguration
+   * @return customerBehaviorModelDeploymentConfiguration
+  **/
+
+  public CRCustomerBehaviorModelSpecificationRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDepCusBehModDeploymentConfiguration getCustomerBehaviorModelDeploymentConfiguration() {
+    return customerBehaviorModelDeploymentConfiguration;
+  }
+
+  public void setCustomerBehaviorModelDeploymentConfiguration(CRCustomerBehaviorModelSpecificationRequestOutputModelCustomerBehaviorModelSpecificationInstanceRecordCustomerBehaviorModelDepCusBehModDeploymentConfiguration customerBehaviorModelDeploymentConfiguration) {
+    this.customerBehaviorModelDeploymentConfiguration = customerBehaviorModelDeploymentConfiguration;
+  }
+
+
+}
+

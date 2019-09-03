@@ -1,0 +1,20 @@
+{
+  "customerBehaviorModelSpecificationCreateActionRecord" : {},
+  "customerBehaviorModelSpecificationCreateActionReference" : "CBMSCAR771160",
+  "customerBehaviorModelSpecificationInstanceReference" : "CBMSIR739932",
+  "customerBehaviorModelSpecificationInstanceRecord" : {
+    "customerBehaviorModelDeployment" : {
+      "customerBehaviorModelDeploymentConfiguration" : {
+        "customerBehaviorModelDeploymentTaskReference" : "722869",
+        "customerBehaviorModelDeploymentTaskRecord" : {}
+      }
+    },
+    "customerBehaviorModelUsage" : "customerBehaviorModelUsage",
+    "customerBehaviorModelPurpose" : "customerBehaviorModelPurpose",
+    "customerBehaviorModelVersion" : "customerBehaviorModelVersion",
+    "customerBehaviorModelStatus" : "customerBehaviorModelStatus",
+    "customerBehaviorModelImpact" : "customerBehaviorModelImpact",
+    "customerBehaviorModel" : "customerBehaviorModel"
+  },
+  "customerBehaviorModelSpecificationInstanceStatus" : "customerBehaviorModelSpecificationInstanceStatus"
+}

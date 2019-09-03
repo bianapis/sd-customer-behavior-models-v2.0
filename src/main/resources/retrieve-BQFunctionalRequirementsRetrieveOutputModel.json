@@ -1,0 +1,34 @@
+{
+  "customerBehaviorModelSpecificationInstanceRecord" : {
+    "customerBehaviorModelUsage" : "customerBehaviorModelUsage",
+    "customerBehaviorModelPurpose" : "customerBehaviorModelPurpose",
+    "customerBehaviorModelVersion" : "customerBehaviorModelVersion",
+    "customerBehaviorModelStatus" : "customerBehaviorModelStatus",
+    "customerBehaviorModelImpact" : "customerBehaviorModelImpact",
+    "customerBehaviorModel" : "customerBehaviorModel",
+    "customerBehaviorModelType" : "customerBehaviorModelType"
+  },
+  "functionalRequirementsInstanceReport" : {
+    "functionalRequirementsInstanceReportType" : "functionalRequirementsInstanceReportType",
+    "functionalRequirementsInstanceReportParameters" : "functionalRequirementsInstanceReportParameters",
+    "functionalRequirementsInstanceReportRecord" : {},
+    "functionalRequirementsInstanceReport" : {}
+  },
+  "functionalRequirementsRetrieveActionTaskRecord" : {},
+  "functionalRequirementsRetrieveActionResponse" : "functionalRequirementsRetrieveActionResponse",
+  "functionalRequirementsInstanceRecord" : {
+    "customerBehaviorModelDesignTaskReference" : "700148",
+    "customerMarketDataRecord" : {},
+    "customerBehaviorModelRequirementsSpecification" : "customerBehaviorModelRequirementsSpecification",
+    "customerBehaviorModelDesignTaskRecord" : {},
+    "customerMarketDataServiceReference" : "788545",
+    "customerBehaviorModelFeedbackRecord" : {}
+  },
+  "functionalRequirementsRetrieveActionTaskReference" : "FRRATR791887",
+  "functionalRequirementsInstanceAnalysis" : {
+    "functionalRequirementsInstanceAnalysisReportType" : "functionalRequirementsInstanceAnalysisReportType",
+    "functionalRequirementsInstanceAnalysisParameters" : "functionalRequirementsInstanceAnalysisParameters",
+    "functionalRequirementsInstanceAnalysisReport" : {},
+    "functionalRequirementsInstanceAnalysisRecord" : {}
+  }
+}

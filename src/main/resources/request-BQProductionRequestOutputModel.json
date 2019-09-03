@@ -1,0 +1,23 @@
+{
+  "productionRequestActionTaskRecord" : {},
+  "customerBehaviorModelSpecificationInstanceRecord" : {
+    "customerBehaviorModelDeployment" : {
+      "customerBehaviorModelDeploymentConfiguration" : {
+        "customerBehaviorModelDeploymentTaskReference" : "785354",
+        "customerBehaviorModelDeploymentTaskRecord" : {}
+      }
+    },
+    "customerBehaviorModelUsage" : "customerBehaviorModelUsage",
+    "customerBehaviorModelVersion" : "customerBehaviorModelVersion",
+    "customerBehaviorModelStatus" : "customerBehaviorModelStatus",
+    "customerBehaviorModel" : "customerBehaviorModel"
+  },
+  "productionRequestActionTaskReference" : "PRATR785568",
+  "productionRequestRecordReference" : "PRRR700555",
+  "productionInstanceRecord" : {
+    "customerBehaviorModelOperationalRequirements" : "customerBehaviorModelOperationalRequirements",
+    "customerBehaviorModelUsageGuidelines" : "customerBehaviorModelUsageGuidelines",
+    "customerBehaviorModelAllowedUsage" : "customerBehaviorModelAllowedUsage"
+  },
+  "requestResponseRecord" : {}
+}
